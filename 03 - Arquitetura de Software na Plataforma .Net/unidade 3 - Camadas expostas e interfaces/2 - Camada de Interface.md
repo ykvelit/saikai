@@ -5,9 +5,12 @@
     - Software desktop
     - Aplicativo móvel
     - ChatBot
-    - Coisas/Máuinas(IoT / M2M)
-    - Outros sistemas (API)
-    - Outras interfaces (Linha de comando, SMS, etc)
+    - Coisas/Máquinas
+        - IoT / M2M
+    - Outros sistemas 
+        - API
+    - Outras interfaces 
+        - Linha de comando, SMS, etc
 
 - Grande importância do ponto de vista de negócio e de aceitação do usuário
 - Camada definidora de percepção de qualidade
@@ -43,7 +46,9 @@
         - Plataforma específica para criação de Jogos e softwares que utilizem animações em 2D e 3D
         - IDE específica para produção
     - Aplicativos nativos
-        - Android 
+        - Android
         - IOS
         - Benefícios
             - Melhor acesso ao hardware
+            - Mais leve
+            - Mais performático
