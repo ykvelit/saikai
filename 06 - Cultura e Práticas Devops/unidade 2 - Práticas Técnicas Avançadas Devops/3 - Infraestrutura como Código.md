@@ -17,12 +17,19 @@
     - Automatizar a criação e gerenciamento da infraestrutura
 
 - Controle de Versão
-    - Tratar os arquivos de infraestrutura como código-fonte versionado.
+    - Tratar os arquivos de infraestrutura como código-fonte versionado
+
 - Declarativo
-    - Descrever o que se deseja na infraestrutura, não como alcançá-lo.
+    - Descrever o que se deseja na infraestrutura, não como alcançá-lo
+
 - Provisionamento e Configuração
-    - Incluir o provisionamento e a configuração dos recursos.
+    - Incluir o provisionamento e a configuração dos recursos
+
 - Consistência e Conformidade
-    - Garantir consistência e conformidade entre ambientes.
+    - Garantir consistência e conformidade entre ambientes
+
 - Testes e Validação
     - Realizar testes automatizados para validar os arquivos de infraestrutura
+
+- Exemplo
+    - Terraform

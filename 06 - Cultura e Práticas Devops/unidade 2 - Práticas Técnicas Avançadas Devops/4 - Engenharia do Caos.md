@@ -27,5 +27,4 @@
 4. Tente refutar a hipótese procurando uma diferença de estado estável entre o grupo controle e o grupo experimental
 
 > Sistemas antifrágeis se tornam cada vez melhores e mais fortes sob ataques e erros contínuos
-
 > Nicholas Taleb

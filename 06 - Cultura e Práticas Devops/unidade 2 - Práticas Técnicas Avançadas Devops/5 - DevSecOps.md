@@ -22,8 +22,8 @@
 - Verificação de segurança automatizada de contêineres Dockers
 - Verificação de segurança automatizada de ambientes
 - Testes de segurança
-- Dias de jogos
-- Times vermelhos e times azuis
+    - Dias de jogos
+        - Times vermelhos e times azuis
 - Gerenciamento integrado de senhas e segredos
 - Engenharia do caos que removem instâncias inseguras de produção 
     - Netflix Security Monkey
@@ -49,4 +49,3 @@
 - OWASP Zed Attack Proxy
 - Hashicorp Vault
 - Aqua Security
-

@@ -4,7 +4,7 @@
 
 - Para maximizar o fluxo, precisamos tornar o trabalho visível, reduzir o tamanho dos lotes e os intervalos de trabalho, aumentar a qualidade evitando que os defeitos sejam passados para os centros de trabalho mais à direita e otimizar constantemente as metas globais
 
-- Mas.. o trabalho tradicional da infraestrutura física em muitas empresas é moroso e repetitivo
+- Mas... o trabalho tradicional da infraestrutura física em muitas empresas é moroso e repetitivo
 
 - Até pouco tempo atrás, a única forma de disponibilizar  software em produção era através de acesso de trabalho manual de:
     - Provisionamento manual de hardware
