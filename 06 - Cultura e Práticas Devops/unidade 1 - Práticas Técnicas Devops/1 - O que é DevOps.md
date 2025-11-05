@@ -8,4 +8,4 @@
 
 2. O segundo caminho permite o fluxo rápido e constante de feedback da direita para a esquerda em todos os estágios do fluxo de valor
 
-3. O terceiro caminho possibilita a criação de uma cultura genera6va de alta confiança que apoie uma abordagem dinâmica, disciplinada e científica à experimentação e tomada de riscos, facilitando a criação de aprendizado organizacional, tanto de nossos sucessos como fracassos
+3. O terceiro caminho possibilita a criação de uma cultura generativa de alta confiança que apoie uma abordagem dinâmica, disciplinada e científica à experimentação e tomada de riscos, facilitando a criação de aprendizado organizacional, tanto de nossos sucessos como fracassos
