@@ -15,7 +15,7 @@
     - exercícios de revisão e fixação dos tópicos abordados
     - fórum de discussão, baseado em mensagens, que permite a interação dos alunos entre si, sendo mediado pelo professor mentor do curso
 
-## EmentaEMENTA
+## Ementa
 
 - Arquitetura de uma aplicação Web
 - Scripts lado do servidor 
