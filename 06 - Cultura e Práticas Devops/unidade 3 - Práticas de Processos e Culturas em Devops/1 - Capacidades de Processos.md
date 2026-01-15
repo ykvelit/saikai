@@ -22,16 +22,24 @@
 
 - Experimentação em equipe
     - Inove mais rápido construindo equipes capacitadas que podem experimentar novas ideias sem a aprovação de pessoas fora da equipe
-    - 
+    - Cultura generativa
+    - Equipe autônoma
 
 - Visibilidade do trabalho no fluxo de valor 
     - Entenda e visualize o fluxo de trabalho da ideia ao resultado do cliente para impulsionar um desempenho mais alto
+    - Quadro Kanban
 
 - Gestão visual 
     - Aprenda sobre os princípios da gestão visual para promover o compartilhamento de informações
+    - Quadro Kanban
+    - Indicadores do sistema
 
 - Limites de trabalho em processo (WIP) 
     - Priorize o trabalho, limite a quantidade de coisas em que as pessoas estão trabalhando e concentre-se em concluir um pequeno número de tarefas de alta prioridade
+    - Foco no trabalho
+    - Colaboração entre os membros do time
 
 - Trabalhando em pequenos lotes
     - Crie tempos de espera mais curtos e loops de feedback mais rápidos trabalhando em pequenos lotes
+    - Evitar entregas muito grandes
+    - Entregas realizadas mais rapidamente
