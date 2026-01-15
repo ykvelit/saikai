@@ -11,8 +11,7 @@
 
 ## Implantalção Contínua (Continuous Deployment)
 
-- Com a entrega contínua implantada, é possível automatizar até mesmo a 
-transferência de objetos para a produção
+- Com a entrega contínua implantada, é possível automatizar até mesmo a transferência de objetos para a produção
 
 - Isso é desejado em ambientes altamente dinâmicos como startups e aplicações que não estejam submetidas a elementos regulatórios de ITIL ou organizações que possuem implementações avançadas de gestão de mudanças no ITIL
 
