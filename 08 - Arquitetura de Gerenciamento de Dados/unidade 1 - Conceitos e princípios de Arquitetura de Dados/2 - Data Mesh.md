@@ -69,4 +69,11 @@
 
 ## Plataforma de dados
 
+- Pode ser analitica ou operacional
+- Considerar os diferentes niveis de abstração dentro da plataforma
+- Pode ser implementado em cima de uma plataforma toda agnóstica ou numa plataforma já previamente estruturada 
+
 ## Governança Federada
+
+- Olhar para o que são politicas, diretrizes e normas não como algo que vamos controlar de perto, mas como algo que podemos orientar e determinar para ser o mais automatizado
+- A organização começa ser compostas por pessoas que representam cada um dos times de desenvolvimento e de produtos de dados
