@@ -16,10 +16,8 @@
     - Olhar o dado com um produto ou um serviço
 
 - Infraestrutura de dados autônomo como uma plataforma
-    - 
 
 - Governança computacional federada
-    - 
 
 ## O que são domínios de dados ?
 

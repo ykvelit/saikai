@@ -52,6 +52,7 @@
     - Orientado ao evento
     - Dados no formato que foi ingerido
     - Por evento
+    - Pode ser chamado de Raw
 
 - Silver
     - Orietado ao registro
