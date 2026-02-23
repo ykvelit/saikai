@@ -1,0 +1,25 @@
+# Bibliografia
+
+- [Designing Web APIs. Brenda Jin, Saurabh Sahni, Amir Shevat. O'Reilly Media, Inc. (2018)](https://www.oreilly.com/library/view/designing-web-apis/9781492026914/)
+- [Mastering API Architecture. James Gough, Daniel Bryant, Matthew Auburn. O'Reilly Media, Inc. (2022)](https://www.oreilly.com/library/view/mastering-api-architecture/9781492090625/)
+- [API Design Patterns. John J. (JJ) Geewax. Manning Publications (2021)](https://www.oreilly.com/library/view/api-design-patterns/9781617295850/)
+- [Designing APIs with Swagger and OpenAPI. Josh Ponelat, Lukas Rosenstock. Manning Publications (2022)](https://www.oreilly.com/library/view/designing-apis-with/9781617296284/)
+- [Microservice APIs. Jose Haro. Manning Publications (2023)](https://www.oreilly.com/library/view/microservice-apis/9781617298417/)
+- SOAP e Web Services (W3C)
+    - [SOAP Specifications (W3C)](https://www.w3.org/TR/soap/)
+- REST e RESTful
+    - Architectural Styles and the Design of Network-based Software Architectures (Fielding, 2000)
+    - [RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://datatracker.ietf.org/doc/html/rfc7231)
+- GraphQL
+    - [GraphQL | A query language for your API](https://graphql.org/)
+- gRPC
+    - [gRPC.io | Documentation](https://grpc.io/docs/)
+- Websockets
+    - [RFC 6455 - The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
+- Webhooks
+    - [Web hooks to revolutionize the web (Jeff Lindsay)](https://progrium.github.io/blog/2007/05/03/web-hooks-to-revolutionize-the-web/)
+- [2023 State of the API Report (Postman)](https://www.postman.com/state-of-api/2025/)
+- [Top Architectural Styles for APIs in 2023](https://nordicapis.com/top-architectural-styles-for-apis-in-2023/)
+- [API Is Not Just REST](https://apievangelist.com/2018/02/03/api-is-not-just-rest/)
+- A guide to REST and API Design
+- [EDA em uma Arquitetura de Microsserviços (Marcelo M. Gonçalves)](https://apievangelist.com/2018/02/03/api-is-not-just-rest/)
