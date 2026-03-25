@@ -1,0 +1,84 @@
+# Desenvolvimento
+
+- Programa
+    - Um programa é uma entidade que representa uma máquina abstrata que se manifesta de duas formas
+        - Como um documento, ele especifica uma sequência de operações a serem executadas
+        - Durante a sua execução, ele efetivamente leva a cabo as operações especificadas
+
+- Software
+    - Software consiste em
+        - Instruções (programas de computador) que, quando executadas, fornecem características, funções e desempenho desejados
+        - Estruturas de dados que possibilitam aos programas manipular informações adequadamente
+        - Informação descritiva, tanto na forma impressa quanto na virtual, descrevendo a operação e o uso dos programas
+
+- Engenharia de software
+    - A aplicação de uma abordagem sistemática, disciplinada e quantificável no desenvolvimento, na operação e na manutenção de software; isto é, a aplicação de engenharia ao software
+    - Planejamento detalhado
+    - Execução sequencial
+
+- Taxa de defeitos em função do tempo para hardware
+    - Relação, normalmente denominada “curva da banheira”
+        - O hardware apresenta  taxas de defeitos relativamente altas no início de sua vida (defeitos de projeto ou de fabricação) 
+        - Os defeitos são corrigidos, e a taxa cai para um nível estável por certo período. 
+        - À medida que o tempo passa, a taxa aumenta novamente, conforme os componentes de hardware sofrem os efeitos cumulativos de poeira, vibração, impactos, temperaturas extremas e vários outros fatores  maléficos  do ambiente. Resumindo, o hardware começa a se desgastar
+        - O software não é suscetível aos fatores maléficos do ambiente que causam o desgaste do hardware
+        - Portanto, teoricamente,  a curva da taxa de defeitos para software deveria assumir a forma da “curva idealizada”
+        - Defeitos ainda não descobertos irão resultar em altas taxas logo no início da vida de um programa
+        - Entretanto, esses defeitos  serão corrigidos, e a curva se achata. Software não se desgasta. Mas deteriora!
+
+- Desenvolvimento de software
+    - Ada Lovelace (1815-1852) é considerada a primeira programadora de computador do mundo
+    - Criou um algoritmo para calcular os números de Bernoulli, usando a máquina analítica de Charles Babbage
+    - Elaborou planos de como a máquina Analytical Engine deveria realizar cálculos 
+    - 1948, Tom Kilburn e Freddie Williams desenvolveram um programa de computador para a execução de cálculos
+    - O programa foi armazenado em memória eletrônica, no computador Manchester Baby
+    - Tom Kilburn também desenvolveu o Ferranti Mark I, o primeiro computador comercial
+    - 1960
+        - O ciclo de vida do desenvolvimento de sistemas é originário da década de 1960 para descrever o processo de planejar, criar, testar e entregar software em larga escala 
+    - 1970 
+        - Winston Royce realiza a primeira apresentação formal com as fases do Modelo Waterfall (Modelo em Cascata). Esta sequência de fases foi referenciada como Waterfall em 1976 por Bell e Thayer
+    - 1986
+        - O Modelo Espiral (Spiral Model) foi descrito e apresentado por Barry Boehm 
+    - 1999 
+        - Jacobson, Booch e Rumbaugh apresentam um modeloincremental e iterativo conhecido como Processo Unificado
+    - 2001
+        - Manifesto Ágil
+
+- O software e a sociedade
+    - Softwares possuem impactos consideráveis na sociedade
+        - Netflix
+        - Uber
+        - Amazon
+        - iFood
+        - mídias sociais
+        - IA
+    - A popularidade da Internet e potencialização de dispositivos móveis (consequentemente, Big Data) e as redes sociais (Nexus das Forças, Gartner) impactaram na ascendência vertiginosa da produção de softwares e novos modelos de negócio
+
+    - 1970 - 1980
+        - Era: Mainframe
+        - Tecnologia: Cobol, DB2
+        - Ciclo: 1 –5 anos
+        - Custo: $1 mi - $100 mi
+        - Risco: empresa inteira
+        - Custo da falha: falência, venda da empresa, demissão em massa
+    - 1990
+        - Era: Client/Server
+        - Tecnologia: C++, Oracle
+        - Ciclo: 3 –12 meses
+        - Custo: $100 mil - $10 mi
+        - Risco: uma linha de produto
+        - Custo da falha: perda de lucro, troca de CIO
+    - 2000
+        - Era: Nuvem
+        - Tecnologia: Java, MySQL
+        - Ciclo: 2 –12 semanas
+        - Custo: $100 mil - $1 mi
+        - Risco: um recurso do produto
+        - Custo da falha: insignificante
+    - 2010 - Presente
+        - Era: Mobile e IA
+        - Tecnologia: Fluter, Reactive, MongoDB
+        - Ciclo: 2 –4 semanas
+        - Custo: $10 mil - $1 mi
+        - Risco: uma feature do produto
+        - Custo da falha: insignificante
