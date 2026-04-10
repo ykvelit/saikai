@@ -1,0 +1,28 @@
+# SLDC: Operate e Monitor
+
+- Nesta fase as equipes de DevSecOps devem manter a segurança do ambiente em produção
+- Monitorar a infraestrutura, rede e aplicações
+- Identificar ameaças de segurança e problemas de compliance
+- Prover e revisar feedback
+- Encontrando vulnerabilidades em contêineres por meio de Layers
+- Monitorando vulnerabilidades em contêineres em execução
+- Dimensões do monitoramento e pirâmide do monitoramento e observabilidade
+- SIEM
+    - Captura de dados, processamento e análise para gerar informação
+    - Estrutura geral da resposta a incidentes
+- Feedback contínuo
+    - Pull Request
+        - Code Review Comments
+        - Static Code Analysis 
+    - CI
+        - Bibliotecas Vulneráveis
+        - Violação de Licença
+        - Falha em Teste
+        - Violação de Regras 
+    - DEV
+        - Problema de Desempenho
+        - Problemas Regressão
+    - TEST
+        - Pentest 
+        - Problemas de Infraestrutura
+        - Falha em Teste
