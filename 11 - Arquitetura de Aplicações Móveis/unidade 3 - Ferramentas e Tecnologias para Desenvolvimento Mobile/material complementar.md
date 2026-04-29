@@ -52,3 +52,56 @@
 ## Leitura complementar
 
 - Leitura sobre as melhores práticas de integração de middleware e os desafios de desempenho com frameworks multiplataforma
+
+## Repositórios
+
+- https://github.com/proffernandopereira/app_convert_moeda2.git
+- https://github.com/proffernandopereira/exemplo_flutter/tree/main/rastreabilidade_pec_corte_app-master
+- https://github.com/proffernandopereira/pwa_lista_filmes/tree/main/public
+- https://github.com/proffernandopereira/app_conversor_moeda_ios_vip
+- https://github.com/proffernandopereira/frases_aleatoria_ios
+- https://github.com/proffernandopereira/frases_aleatorias/tree/master
+- https://github.com/proffernandopereira/app_convert_moeda_mvc
+- https://github.com/proffernandopereira/app_crud_form
+
+## Materiais
+
+- http://bib.pucminas.br:8080/pergamumweb/vinculos/000018/00001899.pdf
+- https://www.rocketseat.com.br/blog/artigos/categoria/react-native
+- https://flutter.dev/monetization?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hxEmbBHGu9FcjcX8NJJrYR4h1FYWWN6CZuVnfh-PKt3gNxMdr7XIgaAuwjEALw_wcB&gclsrc=aw.ds
+
+## Conhecimento extra
+
+- “Fundamentos de Inteligência Artificial” (versão em inglês: Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig)
+    - Link para o site oficial do livro: https://aima.cs.berkeley.edu/ (aima.cs.berkeley.edu)
+    - Link para a editora: https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135 (Pearson)
+
+- “Introdução às IAs Generativas e ao ChatGPT” (Inteligência Artificial e ChatGPT, Fabrício Carraro)
+    - Página de venda no Brasil: https://www.casadocodigo.com.br/products/livro-inteligencia-artificial-chatgpt (casadocodigo.com.br)
+    - Informação adicional / perfil do autor: https://fabriciocarraro.com.br/ (fabriciocarraro.com.br)
+
+- Towards Data Science (Portal de artigos, gratuito, em inglês)
+    - Página oficial: https://towardsdatascience.com/ (LinkedIn)
+
+- Documentação oficial da Matplotlib (gratuita, inglês)
+    - Link principal: https://matplotlib.org/stable/index.html (matplotlib.org)
+    - Guia de início rápido: https://matplotlib.org/stable/users/getting_started/index.html (matplotlib.org)
+
+- Documentação oficial da NumPy (gratuita, inglês)
+    - Link principal: https://numpy.org/doc/ (numpy.org)
+    - Guia de usuário: https://numpy.org/doc/stable/user/ (numpy.org)
+
+- Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow (Aurélien Géron, livro pago, em inglês)
+    - Página de venda / informação: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ (oreilly.com)
+    - Página alternativa: https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=X5ySEAAAQBAJ (Google Livros)
+
+- Documentação oficial da Scikit‑Learn (gratuita, inglês)
+    - Página oficial da biblioteca: https://scikit-learn.org/ (scikit-learn.org)
+    - Guia de usuário: https://scikit-learn.org/stable/user_guide.html (scikit-learn.org)
+
+- Deep Learning (Ian Goodfellow, Yoshua Bengio & Aaron Courville, versão online gratuita em inglês)
+    - Página oficial gratuita: https://www.deeplearningbook.org/ (deeplearningbook.org)
+    - Página da editora MIT Press: https://mitpress.mit.edu/9780262035613/deep-learning/ (mitpress.mit.edu)
+
+- Machine Learning Mastery (blog gratuito, em inglês)
+    - Página principal: https://machinelearningmastery.com/
